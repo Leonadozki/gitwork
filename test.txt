@@ -1,3 +1,5 @@
 git is a version control system.
 git is useful software!
 git is a free softwware you know~
+
+git work directory name is gitwork
